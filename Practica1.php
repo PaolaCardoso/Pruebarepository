@@ -9,7 +9,8 @@
 		<title>???</title>
 		</head>
 	<body>';
-		echo 'Hola mundo';
+		$rand=rand(1,10);
+		echo 'Hola'.$rand;
 		
 		
 		
